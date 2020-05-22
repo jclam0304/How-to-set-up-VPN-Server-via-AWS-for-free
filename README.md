@@ -9,12 +9,12 @@ Choose your VPN region in the Admin Console: e.g. Tokyo
 # Step 4: 
 Select "CloudFormation" from the Service Portal
 # Step 5:
-Create an instance 
+Create a Stack 
 # Step 6：
 Using Amazon S3 Template to add https://s3.amazonaws.com/webdigi/VPN/Unified-Cloud-Formation.json
 # Step 7:
 *Configure the VPN Server:
-*Instance Name
+*Stack Name
 *speed： Standard.VPN-Free
 *Username
 *VPNPassword
