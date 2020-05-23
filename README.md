@@ -1,5 +1,5 @@
 # How-to-set-up-VPN-Server-via-AWS-for-free
-A free VPN Service via AWS
+A free VPN Service via AWS (Template provided by webdigi)
 # Step 1: 
 Register a free Amazon Web Service Account at: http://aws.amazon.com/free/
 # Step 2: 
